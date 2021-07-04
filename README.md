@@ -3,7 +3,7 @@
 ## Setup
 To run ajax-start.html and xhr-basic.html files:
 
-``open console window and browse the specific folder where you clone or downloaded the files``
+``open console window and browse the specific folder where you want to clone or downloaded the files``
 
 In second step, write in console: 
 
